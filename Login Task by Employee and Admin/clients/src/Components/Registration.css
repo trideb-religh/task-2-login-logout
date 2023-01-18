@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(108, 221, 184);
+    
+}
+.container{
+    display: block;
+    margin: auto;
+    background-color:rgb(225, 229, 254);
+    width: 500px;
+    height: auto;
+    box-shadow: 1px black;
+    
+}
+.details{
+    display: inline-block;
+    height: 200px;
+    width: 100px;
+    margin-right: 300px;
+}
+.details input{
+    display: inline-block;
+    height: 30px;
+    width: 350px;
+    margin: 5px;
+}
+.radioData{
+    display: inline;
+}

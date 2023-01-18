@@ -1,0 +1,19 @@
+/* *{
+    text-align: center;
+    background-color: rgb(194, 251, 196);
+} */
+.loginborder{
+    display: block;
+    margin: auto;
+}
+.loginborder .area{
+    display: inline-block;
+    margin: auto;
+    height: auto;
+    width: 300px;
+}
+.area input{
+    height: 30px;
+    width: 300px;
+    margin: 5px;
+}

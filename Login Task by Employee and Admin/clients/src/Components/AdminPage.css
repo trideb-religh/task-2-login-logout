@@ -1,0 +1,27 @@
+
+.task_store{
+    display: inline-block;
+    height: auto;
+    width: 400px;
+    margin: auto;
+    padding: 2px;
+
+    
+}
+.task_store input{
+    height: 30px;
+    width: 300px;
+    margin: 10px;
+}
+.task_store select{
+    height: 35px;
+    width: 306px;
+}
+.task_store textarea{
+    height: 150px;
+    width: 300px;
+}
+.task_store label{
+    font-weight: bolder;
+    margin-top: 3px;
+}
